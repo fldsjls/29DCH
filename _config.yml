@@ -8,7 +8,7 @@ description: "此生无悔入软工! | 刘继强，BigData & ML Lover，a softwa
 keyword: "LJQ, 刘继强的博客, LJQ Blog, 博客, 个人网站, 互联网, 软件工程, JavaScript, BigData, 后端, ML, AI"
 url: ""          # your host, for absolute URL
 baseurl: "/29DCH"      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: " https://github.com/29DCH/29DCH.github.io.git" # you code repository
+github_repo: " https://github.com/fldsjls/29DCH" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
